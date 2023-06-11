@@ -1,0 +1,10 @@
+{
+	"id": "mindmap",
+	"name": "Mindmap",
+	"version": "0.0.1",
+	"minAppVersion": "1.1.0",
+	"description": "use canvas like a mindmap.",
+	"author": "xiehengjian",
+	"authorUrl": "https://github.com/xiehengjian",
+	"isDesktopOnly": false
+}
