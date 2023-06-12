@@ -1,7 +1,7 @@
 {
 	"id": "mindmap",
 	"name": "Mindmap",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"minAppVersion": "1.1.0",
 	"description": "use canvas like a mindmap.",
 	"author": "xiehengjian",
