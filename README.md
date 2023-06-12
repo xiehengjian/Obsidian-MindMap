@@ -33,6 +33,7 @@ To use this plugin, follow these simple steps:
 
 - `Enter`: Create a new sibling node
 - `Tap`: Create a new child node
+- `Command`+`←/→/↓/↑`: Navigate between different cards
 
 ## Support
 
